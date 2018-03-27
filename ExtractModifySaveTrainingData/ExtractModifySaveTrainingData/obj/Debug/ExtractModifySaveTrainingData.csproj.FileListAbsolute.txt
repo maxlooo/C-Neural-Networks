@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractModifySaveTrainingData\ExtractModifySaveTrainingData\bin\Debug\ExtractModifySaveTrainingData.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractModifySaveTrainingData\ExtractModifySaveTrainingData\bin\Debug\ExtractModifySaveTrainingData.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractModifySaveTrainingData\ExtractModifySaveTrainingData\obj\Debug\ExtractModifySaveTrainingData.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractModifySaveTrainingData\ExtractModifySaveTrainingData\obj\Debug\ExtractModifySaveTrainingData.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractModifySaveTrainingData\ExtractModifySaveTrainingData\obj\Debug\ExtractModifySaveTrainingData.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractModifySaveTrainingData\ExtractModifySaveTrainingData\obj\Debug\ExtractModifySaveTrainingData.pdb

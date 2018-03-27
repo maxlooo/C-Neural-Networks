@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractDataFromFile\ExtractDataFromFile\bin\Debug\ExtractDataFromFile.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractDataFromFile\ExtractDataFromFile\bin\Debug\ExtractDataFromFile.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractDataFromFile\ExtractDataFromFile\obj\Debug\ExtractDataFromFile.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractDataFromFile\ExtractDataFromFile\obj\Debug\ExtractDataFromFile.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractDataFromFile\ExtractDataFromFile\obj\Debug\ExtractDataFromFile.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\ExtractDataFromFile\ExtractDataFromFile\obj\Debug\ExtractDataFromFile.pdb
